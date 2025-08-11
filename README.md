@@ -1,6 +1,6 @@
 # Image Caption Generator
 
-![Project Demo](demo.gif) <!-- Replace with an actual demo GIF if available -->
+
 
 An application that generates descriptive captions for uploaded images using a pre-trained deep learning model (Salesforce/blip-image-captioning-large). The interface is built with HTML, Tailwind CSS, and JavaScript, while the processing uses FastAPI with a Hugging Face transformer model.
 
